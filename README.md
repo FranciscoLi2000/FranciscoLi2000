@@ -54,7 +54,7 @@
 
 📫 **How to reach me**
 
-- ✉️ Email: yufeng.codes@gmail.com *(或你的真实邮箱)*
+- ✉️ Email: liyufeng577@gmail.com
 - 🌐 Portfolio (soon):
 - 🐙 GitHub: [FranciscoLi](https://github.com/FranciscoLi2000)
 - 📈 LinkedIn: [Yufeng Li](https://www.linkedin.com/in/yufeng-li-992781256/)
